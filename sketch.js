@@ -74,6 +74,3 @@ function draw(){
   slingShot.fly(); 
 }  
 
-
-asdfhrfkofgpoovasdf
-asdfjhgfdedjbveddfdjskuhjnvohg
